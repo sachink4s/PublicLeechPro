@@ -1,4 +1,4 @@
-# Help and Support [SK4S](https://telegram.dog/sachink4s)
+# Help and Support [SK4S](https://telegram.dog/sk4s_allchannel)
 
 ## working example group [Leech Here](https://telegram.dog/PublicLeechGroup)
 
