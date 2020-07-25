@@ -1,6 +1,10 @@
 # Help and Support [SK4S](https://telegram.dog/sk4s_allchannel)
 
-## working example group [Leech Here](https://telegram.dog/PublicLeechGroup)
+## Working example group [Leech Here](https://telegram.dog/PublicLeechGroup)
+
+### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech)
+
+## Thank [SK4S](https://github.com/sachink4s/Leech-GDrive) for the added Cool features 🤩
 
 # Telegram Torrent Leecher 🔥🤖
 
