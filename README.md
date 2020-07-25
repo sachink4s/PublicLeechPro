@@ -1,5 +1,6 @@
-# Help and Support [Admin](https://telegram.dog/MaxxRider)
-# working example group [Leech Here](https://telegram.dog/joinchat/OV5y_FarWaGaNYUIYr6J9w)
+# Help and Support [SK4S](https://telegram.dog/sachink4s)
+
+## working example group [Leech Here](https://telegram.dog/PublicLeechGroup)
 
 # Telegram Torrent Leecher 🔥🤖
 
@@ -27,7 +28,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/SpEcHiDe/PublicLeech.git
+git clone https://github.com/sachink4s/PublicLeech.git
 cd PublicLeech
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
